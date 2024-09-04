@@ -42,7 +42,6 @@ Tasks are displayed on the home screen in a list format. Each task shows its tit
 
 1. Tap on a task in the list to open the task details.
 2. Edit the details and save the changes.
-3. 
 # Deleting a Task
 
 1. double click or hold click for 2 seconds.
